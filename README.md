@@ -18,4 +18,4 @@ Este es un pequeño proyecto en JavaScript que permite agregar nombres de amigos
 ## 📌 Instalación y uso
 
 1. **Clona este repositorio**  
-   
+   https://github.com/VicentSeg/ChallengeAmigoSecreto.git
